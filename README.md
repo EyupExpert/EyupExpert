@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EyupExpert
-- 👀 I’m interested in FrontEnd developement
-- 🌱 I’m currently learning html, css, javascript
+- 👀 I’m interested in FrontEnd developement.
+- 🌱 I’m currently learning html, css and javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email:eyupexpert@gmail.com
 
